@@ -207,8 +207,8 @@
     <None Include="res\toHuZhengPengMFC.rc2" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\Pictures\bitmap\hzp_image.bmp" />
-    <Image Include="..\..\..\Pictures\icon\image.ico" />
+    <Image Include="res\hzp_image.bmp" />
+    <Image Include="res\image.ico" />
     <Image Include="res\toHuZhengPengMFC.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
